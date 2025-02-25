@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bokepwarung.pages.dev"),
+    metadataBase: new URL("https://bokepwarungs.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: 'X_f3Svd_dZDYCMZkgOX6dgNsmS0sRuFKaO2qA1ARbeM',
+        google: 'YmVsTtzLDLNl0YbitQpp_WAgPxUe2bgnSuISzMzjql0',
         yandex: 'e1344af921c46c08',
     },
 };
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bokepwarung.pages.dev/favicon.ico",
-        "url": "https://bokepwarung.pages.dev",
+        "logo": "https://bokepwarungs.pages.dev/favicon.ico",
+        "url": "https://bokepwarungs.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepwarung.pages.dev"
+            "url":"https://bokepwarungs.pages.dev"
             },
             "foundingDate":"2025-02-20"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepwarung.pages.dev",
+        "url": "https://bokepwarungs.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepwarung.pages.dev/?q={search_term}", 
+          "target": "https://bokepwarungs.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
